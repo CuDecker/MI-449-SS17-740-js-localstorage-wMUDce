@@ -1,0 +1,16 @@
+.daytime {
+  background-color: yellow;
+  color: grey;
+}
+
+.daytime button {
+  color: grey;
+}
+
+.nightime {
+  background-color: grey;
+  color: white;
+}
+.nightime button {
+  color: white;
+}
